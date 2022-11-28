@@ -1,0 +1,48 @@
+#cps {
+    width:1600px; 
+   height:700px;
+}
+#navbar{
+    position: sticky;
+    height: 50px;
+    width: 1600px;
+    background: linear-gradient(#0b07f7,#8f07f7c7,#f707d3);
+}
+#a{
+    color: maroon;
+}
+#a2{
+    color: orange;
+}#a3{
+    color: yellow;
+}#a4{
+    color: rgb(5, 255, 5);
+}#a5{
+    color: skyblue;
+}
+#kbd{
+    background: linear-gradient(#0b07f7,#8f07f7c7,#f707d3);
+    color: rgb(255, 234, 0);
+}
+#kbd2{
+    background: linear-gradient(#0b07f7,#8f07f7c7,#f707d3);
+    color: rgb(255, 255, 0);
+}
+#img1{
+    width: 1000px;
+    height: 500px;
+}
+#img{
+    width: 1000px;
+    height: 500px;
+}
+#img2{
+    width: 1000px;
+    height: 500px;
+}
+#paragraph1{
+ color: aquamarine;
+}
+#paragraph{
+    color: #f707d3;
+}
